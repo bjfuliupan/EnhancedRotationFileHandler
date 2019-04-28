@@ -1,0 +1,2 @@
+# EnhancedTimedRotationFileHandler
+Enhanced version of the TimedRotationFileHandler
