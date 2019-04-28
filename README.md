@@ -9,21 +9,21 @@ EnhancedTimedRotatingFileHandler结合了TimedRotaingFileHandler和RotatingFileH
 
 ## 分片例子
 ### RotaingFileHandler
-example.log\r\n
-example.log.1\r\n
-example.log.2\r\n
-example.log.3\r\n
+example.log<br>
+example.log.1<br>
+example.log.2<br>
+example.log.3<br>
 
 ### TimedRotaingFileHandler
-example.2019-04-28.log\r\n
-example.2019-04-29.log\r\n
+example.2019-04-28.log<br>
+example.2019-04-29.log<br>
 
 ### EnhancedTimedRotaingFileHandler
-example.2019-04-28.log\r\n
-example.2019-04-28.log.1\r\n
-example.2019-04-28.log.2\r\n
-example.2019-04-28.log.3v
-example.2019-04-29.log\r\n
-example.2019-04-29.log.1\r\n
-example.2019-04-29.log.2\r\n
-example.2019-04-29.log.3\r\n
+example.2019-04-28.log<br>
+example.2019-04-28.log.1<br>
+example.2019-04-28.log.2<br>
+example.2019-04-28.log.3<br>
+example.2019-04-29.log<br>
+example.2019-04-29.log.1<br>
+example.2019-04-29.log.2<br>
+example.2019-04-29.log.3<br>
